@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbb2c287-a302-4103-b778-7535473c5712" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kjGqJZRrHrwohnG88ZaZyOa0ct" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowAnt.ShowToolbar" value="false" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.10693877" />
+    <property name="project.structure.side.proportion" value="0.32818183" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LinWeiWwei\lww-mall\mall-tiny-01\src\main\resources\com\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ww.mall.tiny" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ww.mall.tiny.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LinWeiWwei\lww-mall\mall-tiny-01\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallTinyApplication">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ww.mall.tiny.mbg.Generator" />
+      <module name="mall-tiny-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ww.mall.tiny.mbg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.elasticsearchUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-tiny-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ww.mall.tiny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ww.mall.tiny" />
+      <option name="MAIN_CLASS_NAME" value="com.ww.mall.tiny.Test" />
+      <option name="METHOD_NAME" value="elasticsearchUtilsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.esProductDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-tiny-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ww.mall.tiny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ww.mall.tiny" />
+      <option name="MAIN_CLASS_NAME" value="com.ww.mall.tiny.Test" />
+      <option name="METHOD_NAME" value="esProductDaoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.esTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-tiny-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ww.mall.tiny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ww.mall.tiny" />
+      <option name="MAIN_CLASS_NAME" value="com.ww.mall.tiny.Test" />
+      <option name="METHOD_NAME" value="esTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallTinyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall-tiny-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ww.mall.tiny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ww.mall.tiny.MallTinyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Generator" />
+      <item itemvalue="JUnit.Test.esTest" />
+      <item itemvalue="JUnit.Test.esProductDaoTest" />
+      <item itemvalue="JUnit.Test.elasticsearchUtilsTest" />
+      <item itemvalue="Spring Boot.MallTinyApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MallTinyApplication" />
+        <item itemvalue="JUnit.Test.elasticsearchUtilsTest" />
+        <item itemvalue="JUnit.Test.esProductDaoTest" />
+        <item itemvalue="JUnit.Test.esTest" />
+        <item itemvalue="Application.Generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbb2c287-a302-4103-b778-7535473c5712" name="Default Changelist" comment="" />
+      <created>1606206776161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606206776161</updated>
+      <workItem from="1606206782844" duration="7602000" />
+      <workItem from="1606225927600" duration="4420000" />
+      <workItem from="1606268839891" duration="13966000" />
+      <workItem from="1606354390324" duration="15997000" />
+      <workItem from="1606472590904" duration="91725000" />
+      <workItem from="1607065156249" duration="52947000" />
+      <workItem from="1607390424327" duration="53380000" />
+      <workItem from="1607484062831" duration="145000" />
+      <workItem from="1607497262572" duration="325000" />
+      <workItem from="1607507842214" duration="595000" />
+      <workItem from="1607567628839" duration="596000" />
+      <workItem from="1608006678068" duration="2387000" />
+      <workItem from="1609297314061" duration="4817000" />
+      <workItem from="1610587372812" duration="55987000" />
+      <workItem from="1610935277689" duration="234000" />
+      <workItem from="1610935517739" duration="16373000" />
+      <workItem from="1610958965398" duration="855000" />
+      <workItem from="1610960299506" duration="26510000" />
+      <workItem from="1611539020850" duration="26113000" />
+      <workItem from="1611714741347" duration="26000" />
+      <workItem from="1611714878671" duration="8212000" />
+      <workItem from="1612250995720" duration="340000" />
+      <workItem from="1612251472628" duration="1334000" />
+      <workItem from="1612339334331" duration="943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1607418371639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1607418371639" />
+    <state x="414" y="175" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607307371511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607307371511" />
+    <state x="664" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607419944883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607419944883" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1611712813311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611712813311" />
+    <state x="563" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1610595700535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610595700535" />
+    <state x="736" y="387" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610618101134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="387" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1610618101134" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611542783029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611542783029" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612251308395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612251308395" />
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1611915506424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506424" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1611915506422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506422" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1611915506422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506422" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1611915506422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506422" />
+    <state width="1877" height="207" key="GridCell.Tab.1.bottom" timestamp="1611915506425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506425" />
+    <state width="1877" height="207" key="GridCell.Tab.1.center" timestamp="1611915506425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506425" />
+    <state width="1877" height="207" key="GridCell.Tab.1.left" timestamp="1611915506425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506425" />
+    <state width="1877" height="207" key="GridCell.Tab.1.right" timestamp="1611915506425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506425" />
+    <state width="1877" height="207" key="GridCell.Tab.2.bottom" timestamp="1611915506426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506426" />
+    <state width="1877" height="207" key="GridCell.Tab.2.center" timestamp="1611915506426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506426" />
+    <state width="1877" height="207" key="GridCell.Tab.2.left" timestamp="1611915506426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506426" />
+    <state width="1877" height="207" key="GridCell.Tab.2.right" timestamp="1611915506426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611915506426" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1606381027923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606381027923" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1611714664899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611714664899" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1611715817884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1611715817884" />
+    <state x="1048" y="260" width="673" height="536" key="find.popup" timestamp="1611914429067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1048" y="260" width="673" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611914429067" />
+    <state x="334" y="180" key="new project wizard" timestamp="1606208282681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606208282681" />
+    <state x="1216" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1610697346838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1216" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610697346838" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611039044730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611039044729" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/service/impl/PmsBrandServiceImpl.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/mbg/CommentGenerator.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/controller/UmsMembersController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/component/RestFulAccessDeniedHandler.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/controller/UmsAdminController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/controller/UmsAdminController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/service/impl/UmsAdminServiceImpl.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/service/impl/UmsAdminServiceImpl.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/controller/UmsMembersController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/test/java/com/ww/mall/tiny/Test.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/controller/MemberReadHistoryController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/ww/mall/tiny/controller/MemberReadHistoryController.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint$MethodSignatureImpl" fieldName="this$0" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lww_mall$MallTinyApplication.ic" NAME="MallTinyApplication Coverage Results" MODIFIED="1610935497027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ww.mall.tiny.*</FILTER>
+    </SUITE>
+  </component>
+</project>

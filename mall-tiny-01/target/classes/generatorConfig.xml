@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<!--Mybatis generator 就是用来生成实体类 xml dao接口用的 就是配置配置配置-->
+
+<generatorConfiguration>
+    <!--引入配置文件-->
+    <properties resource="generator.properties"/>
+
+    <!--MBG环境配置 id唯一标识  targetRuntime   defaultModelType=flat一个表只生成一个实体类-->
+    <context id="MySqlContext" targetRuntime="MyBatis3" defaultModelType="flat">
+
+        <!--前后分隔符 ''针对mysql-->
+        <property name="beginningDelimiter" value="`"/>
+        <property name="endingDelimiter" value="`"/>
+        <property name="javaFileEncoding" value="UTF-8"/>
+
+        <!--生成的模型自动实现序列化-->
+        <plugin type="org.mybatis.generator.plugins.SerializablePlugin"/>
+        <!--给生成的实体类都添加一个toString方法-->
+        <plugin type="org.mybatis.generator.plugins.ToStringPlugin"/>
+        <!--生成mapper.xml时覆盖原文件-->
+        <plugin type="org.mybatis.generator.plugins.UnmergeableXmlMappersPlugin" />
+
+        <!--给生成的实体类添加自己的注释comment-->
+        <commentGenerator type="com.ww.mall.tiny.mbg.CommentGenerator">
+            <!--阻止生成注释 true:是 false:否-->
+            <property name="suppressAllComments" value="true"/>
+            <!--阻止生成的注释包含时间戳-->
+            <property name="suppressDate" value="true"/>
+            <!--注释中添加数据库的注释 没有阻止-->
+            <property name="addRemarkComments" value="true"/>
+        </commentGenerator>
+
+        <!--配置数据库连接-->
+        <jdbcConnection driverClass="${jdbc.driverClass}"
+                        connectionURL="${jdbc.connectionURL}"
+                        userId="${jdbc.userId}"
+                        password="${jdbc.password}">
+            <!--解决mysql驱动升级到8.0后不生成指定数据库代码的问题-->
+            <property name="nullCatalogMeansCurrent" value="true" />
+        </jdbcConnection>
+
+        <!--指定生成实体类的位置  顺序不能变-->
+        <javaModelGenerator targetPackage="com.ww.mall.tiny.mbg.mode" targetProject="mall-tiny-01\src\main\java"/>
+        <!--指定生成mapper的位置-->
+        <sqlMapGenerator targetPackage="com.ww.mall.tiny.mbg.mapper" targetProject="mall-tiny-01\src\main\resources"/>
+        <!--指定生成接口的位置-->
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.ww.mall.tiny.mbg.mapper" targetProject="mall-tiny-01\src\main\java"/>
+
+        <!--如果生成数据库中所有的表tableName=%-->
+        <!--后台品牌表-->
+        <table tableName="pms_brand">
+            <!--generatedKey指定主键  sqlStatement数据库类型-->
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+        <!--后台用户表-->
+        <table tableName="ums_admin">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+        <!--后台用户角色表-->
+        <table tableName="ums_role">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+        <!--后台用户权限表-->
+        <table tableName="ums_permission">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+        <table tableName="ums_admin_role_relation">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+        <table tableName="ums_role_permission_relation">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+        <table tableName="ums_admin_permission_relation">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+
+    </context>
+</generatorConfiguration>
